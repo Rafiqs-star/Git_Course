@@ -1,2 +1,5 @@
 # Git_Course
 For el zero web school Git Course
+
+
+## Project notes
