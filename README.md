@@ -17,7 +17,7 @@ TEXT 2
 
 Link to the sample section: [Link Text](#sample-section).
 
-Link to the helpful section: [Link Text](facbook.com).
+Link to the helpful section: [Link Text](Readm.md).
 
 Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
 
